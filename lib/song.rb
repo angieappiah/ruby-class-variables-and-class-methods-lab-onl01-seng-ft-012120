@@ -14,4 +14,6 @@ class Song
     @@artists << artist
   end
   
+  
+  
 end
